@@ -1,0 +1,10 @@
+# Edge Vision & Geometric Pose Estimation Pipeline
+
+# Core Machine Learning & Object Detection
+ultralytics>=8.0.0
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Computer Vision & Matrix Operations
+opencv-python>=4.8.0
+numpy>=1.23.0
